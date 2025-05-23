@@ -1,0 +1,54 @@
+# History files
+*.asv
+*.bak
+
+# FIG files
+*.fig
+
+# MEX files
+*.mex*
+
+# Simulink code generation folders
+slprj/
+*_slrt_rtw/
+*_ert_rtw/
+*_grt_rtw/
+
+# MATLAB auto-generated files
+*.mlappinstall
+*.p
+*.slx~
+*.sltx
+*. Autosave files
+*.m~
+*.slx.autosave
+*.sfx.autosave
+
+# MATLAB generated folders
+_slprj/
+*_stf_rtw/
+
+# MATLAB Crash Dump files
+matlab_crash_dump.*
+
+# MATLAB Profiler files
+profile.mat
+
+# MATLAB preferences and history (consider if you want to share these)
+# matlabprefs.mat
+# History.xml
+
+# Temporary files
+*~
+*.tmp
+
+# Data files (consider if you want to version control large data)
+# *.mat
+# *.xlsx
+# *.csv
+# *.png
+# *.avi
+
+# Results Folders (based on your scripts)
+ResRyR_*/
+ResRyR_*_Events/
